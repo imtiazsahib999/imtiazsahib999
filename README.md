@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Imtiaz Ali</h2>
 ---
-#                                       Senior React Native Engineer | Mobile Architecture & Performance</b>
-                                Building scalable mobile applications used by millions across iOS and Android.
+                                      <h2 align="center"> Senior React Native Engineer | Mobile Architecture & Performance</h2>                                Building scalable mobile applications used by millions across iOS and Android.
 ---
 
 ## 🚀 About Me
