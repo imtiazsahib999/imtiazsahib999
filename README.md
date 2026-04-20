@@ -15,11 +15,9 @@
 <strong>CI/CD:</strong> Fastlane, GitHub Actions, Expo EAS</br >
 
 <h2>📈 Top Languages</h2>
----
 <h2> 🧠 Currently Focused On </h2>
 • Scaling React Native applications for production</br>
 • Performance optimization and native modules</br>
 • Open-source contributions to React Native ecosystem</br>
----
-## ✨ Fun Fact
+<h2>✨ Fun Fact</h2>
 JavaScript is single-threaded, but feels multi-threaded thanks to async/await 😉
