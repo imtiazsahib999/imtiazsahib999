@@ -2,7 +2,7 @@
 <h2 align="center"> Senior React Native Engineer | Mobile Architecture & Performance</h2>    
 <p align="center" >Building scalable mobile applications used by millions across iOS and Android.</p>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 ---
 ## 🛠️ Tech Stack
