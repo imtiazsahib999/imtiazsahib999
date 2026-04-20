@@ -7,5 +7,5 @@
 ⚛️ Specialized in React Native, TypeScript, Expo/EAS, Swift, Kotlin
 🧠 Focused on mobile architecture, performance, and scalable systems
 🌍 Built applications used by millions of users globally
-🧩 React Native Core Contributor (Lean Core initiative)
+🧩 React Native Core Contributor (Lean Core initiative) 
 
