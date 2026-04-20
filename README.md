@@ -16,7 +16,7 @@
 
 <h2>📈 Top Languages</h2>
 ---
-## 🧠 Currently Focused On
+<h2> 🧠 Currently Focused On </h2>
 • Scaling React Native applications for production</br>
 • Performance optimization and native modules</br>
 • Open-source contributions to React Native ecosystem</br>
