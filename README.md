@@ -4,8 +4,7 @@
 
 <h2>🚀 About Me</h2>
 
----
-## 🛠️ Tech Stack
+<h2> 🛠️ Tech Stack </h2>
 **Mobile:** React Native, Expo, React Navigation, Reanimated</br >
 **Frontend:** TypeScript, React.js, Redux, Zustand</br >
 **Native:** Swift, Kotlin, Native Modules, Camera APIs</br >
