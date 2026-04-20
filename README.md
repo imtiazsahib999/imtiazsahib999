@@ -13,8 +13,8 @@
 <strong>Native:</strong> Swift, Kotlin, Native Modules, Camera APIs</br >
 <strong>Performance:</strong> Optimization, Offline-first, Memory, Startup Time</br >
 <strong>CI/CD:</strong> Fastlane, GitHub Actions, Expo EAS</br >
----
-## 📈 Top Languages
+
+<h2>📈 Top Languages</h2>
 ---
 ## 🧠 Currently Focused On
 • Scaling React Native applications for production</br>
