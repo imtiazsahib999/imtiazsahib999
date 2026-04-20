@@ -7,11 +7,11 @@
 • 🌍 Built applications used by **millions of users globally**</br> 
 ---
 ## 🛠️ Tech Stack
-*Mobile:** React Native, Expo, React Navigation, Reanimated</br>
-*Frontend:** TypeScript, React.js, Redux, Zustand</br>
-*Native:** Swift, Kotlin, Native Modules, Camera APIs</br>
-*Performance:** Optimization, Offline-first, Memory, Startup Time</br>
-*CI/CD:** Fastlane, GitHub Actions, Expo EAS</br>
+*Mobile:* React Native, Expo, React Navigation, Reanimated</br>
+*Frontend:* TypeScript, React.js, Redux, Zustand</br>
+*Native:* Swift, Kotlin, Native Modules, Camera APIs</br>
+*Performance:* Optimization, Offline-first, Memory, Startup Time</br>
+*CI/CD:* Fastlane, GitHub Actions, Expo EAS</br>
 ---
 ## 📈 Top Languages
 ---
