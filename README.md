@@ -3,8 +3,8 @@
                                 Building scalable mobile applications used by millions across iOS and Android.
 
 ## 🚀 About Me
-• 📱 Senior React Native Engineer with **7+ years of experience** </br >                                                                                                    • ⚛️ Specialized in **React Native**, **TypeScript**, **Expo/EAS**, **Swift**, **Kotlin**   </br >                                                                                             • 🧠 Focused on **mobile architecture**, **performance**, and **scalable systems**</br > 
-• 🌍 Built applications used by **millions of users globally**</br > 
+• 📱 Senior React Native Engineer with **7+ years of experience** </br>                                                                                                    • ⚛️ Specialized in **React Native**, **TypeScript**, **Expo/EAS**, **Swift**, **Kotlin**   </br>                                                                                             • 🧠 Focused on **mobile architecture**, **performance**, and **scalable systems**</br> 
+• 🌍 Built applications used by **millions of users globally**</br> 
 ---
 ## 🛠️ Tech Stack
 **Mobile:** React Native, Expo, React Navigation, Reanimated</br >
