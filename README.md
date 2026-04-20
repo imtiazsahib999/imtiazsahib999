@@ -8,11 +8,11 @@
 • 🧠 Focused on <strong>mobile architecture, performance, and scalable systems</strong></br>
 • 🌍 Built applications used by <strong>millions of users globally</strong>
 <h2> 🛠️ Tech Stack </h2>
-**Mobile:** React Native, Expo, React Navigation, Reanimated</br >
-**Frontend:** TypeScript, React.js, Redux, Zustand</br >
-**Native:** Swift, Kotlin, Native Modules, Camera APIs</br >
-**Performance:** Optimization, Offline-first, Memory, Startup Time</br >
-*CI/CD:** Fastlane, GitHub Actions, Expo EAS</br >
+<strong>Mobile:</strong> React Native, Expo, React Navigation, Reanimated</br >
+<strong>Frontend:</strong> TypeScript, React.js, Redux, Zustand</br >
+<strong>Native:</strong> Swift, Kotlin, Native Modules, Camera APIs</br >
+<strong>Performance:</strong> Optimization, Offline-first, Memory, Startup Time</br >
+<strong>CI/CD:</strong> Fastlane, GitHub Actions, Expo EAS</br >
 ---
 ## 📈 Top Languages
 ---
