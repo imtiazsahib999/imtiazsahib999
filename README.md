@@ -3,7 +3,7 @@
 <p align="center" >Building scalable mobile applications used by millions across iOS and Android.</p>
 
 <h2>🚀 About Me</h2>
-• 📱 Senior React Native Engineer with **7+ years of experience**
+• 📱 Senior React Native Engineer with __7+ years of experience__
 • ⚛️ Specialized in **React Native**, **TypeScript**, **Expo/EAS**, **Swift**, **Kotlin**
 • 🧠 Focused on mobile architecture, performance, and scalable systems
 • 🌍 Built applications used by millions of users globally
