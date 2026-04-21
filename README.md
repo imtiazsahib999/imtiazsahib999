@@ -21,3 +21,4 @@
 • Open-source contributions to React Native ecosystem</br>
 <h2>✨ Fun Fact</h2>
 JavaScript is single-threaded, but feels multi-threaded thanks to async/await 😉
+<h2>🌐 Let’s Connect</h2>
