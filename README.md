@@ -22,3 +22,6 @@
 <h2>✨ Fun Fact</h2>
 JavaScript is single-threaded, but feels multi-threaded thanks to async/await 😉
 <h2>🌐 Let’s Connect</h2>
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/imtiazsahib999
+- Email: mailto:imtiazsahib185@gmail.com
